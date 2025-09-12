@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Musfiq Rahman  
 
+<img src="[https://your-image-link.jpg](https://raw.githubusercontent.com/musfiq180214/musfiq180214/refs/heads/main/Musfiq_180214.jpeg)" alt="Musfiq Rahman" width="150" style="border-radius:50%;">
+
 🚀 **Software Developer | Flutter Enthusiast | AI Explorer**  
 
 I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.  
