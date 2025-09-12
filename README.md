@@ -60,6 +60,10 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 
 ---
 
+## 📄 Research & Publications
+“Precision Protein Folding leveraging Ant Lion Optimization” – Submitted to an international journal.
+---
+
 ## 🌐 Connect with Me  
 - 📧 Email: [musfiq677@gmail.com](mailto:musfiq677@gmail.com)  
 - 🐙 GitHub: [github.com/musfiq180214](https://github.com/musfiq180214)  
