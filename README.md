@@ -44,7 +44,7 @@ Photo sharing app with likes and comments powered by Firebase backend.
 
 ### 🛒 [Amazon Clone](https://github.com/musfiq180214/amazon_clone_repo)  
 E-commerce app with product browsing and cart features.  
-*Tech:* Flutter  
+*Tech:* Flutter, Public API  
 
 ### 💬 [Telegram Clone](https://github.com/musfiq180214/telegram_clone_repo)  
 Real-time one-to-one and group chat with Firebase sync.  
