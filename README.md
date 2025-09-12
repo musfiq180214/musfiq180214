@@ -61,7 +61,7 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 ---
 
 ## 📄 Research & Publications
-“Precision Protein Folding leveraging Ant Lion Optimization” – Submitted to an international journal.
+"Precision Protein Folding Leveraging Ant Lion Optimization" - Submitted to an internation journal.
 ---
 
 ## 🌐 Connect with Me  
