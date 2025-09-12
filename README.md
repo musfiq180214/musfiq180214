@@ -29,12 +29,6 @@ I enjoy building scalable, efficient applications and solving real-world problem
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiq180214&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-> **Stats Explained:**
-> - **Total Stars Earned:** Counted across all your repositories  
-> - **Total Commits:** All commits including private repos  
-> - **Total PRs & Issues:** Pull requests and issues opened across GitHub  
-> - **Most Used Languages:** As per your GitHub codebase  
-> - **Total Contributions, Current Streak, Longest Streak:** Contribution activity  
 
 ---
 
