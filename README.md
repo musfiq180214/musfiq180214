@@ -23,7 +23,6 @@ I enjoy building scalable, efficient applications and solving real-world problem
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=musfiq180214&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&title_color=F7AB0A&icon_color=F7AB0A" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiq180214&layout=compact&theme=tokyonight&title_color=F7AB0A&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
