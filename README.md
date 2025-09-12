@@ -47,7 +47,7 @@ Real-time one-to-one and group chat with Firebase sync.
 **B.Sc. in Computer Science & Engineering**  
 Khulna University (2018 – 2025)  
 
-Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Computer Security, Networks, AI, Data Mining, ML.  
+Core Courses: OOP, Data Structures, Algorithms, Software Engineering,Software Development Project, Computer Security, Networks, AI, Data Mining, ML.  
 
 ---
 
