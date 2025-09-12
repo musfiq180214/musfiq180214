@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td>
-
 # 👋 Hi, I'm Musfiq Rahman  
 
 🚀 **Software Developer | Flutter Enthusiast | AI Explorer**  
@@ -9,14 +5,7 @@
 I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.  
 I enjoy building scalable, efficient applications and solving real-world problems with clean code.
 
-</td>
-<td>
 
-<img src="https://raw.githubusercontent.com/musfiq180214/musfiq180214/main/Musfiq_180214.jpeg" alt="Musfiq Rahman" width="150" style="border-radius:50%;" />
-
-</td>
-</tr>
-</table>
 
 ---
 
