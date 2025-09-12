@@ -1,12 +1,22 @@
-# 👋 Hi, I'm Musfiq Rahman  
+<table>
+<tr>
+<td>
 
-<img src="https://raw.githubusercontent.com/musfiq180214/musfiq180214/main/Musfiq_180214.jpeg" alt="Musfiq Rahman" width="150" style="border-radius:50%;" />
+# 👋 Hi, I'm Musfiq Rahman  
 
 🚀 **Software Developer | Flutter Enthusiast | AI Explorer**  
 
 I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.  
-I enjoy building scalable, efficient applications and solving real-world problems with clean code.  
+I enjoy building scalable, efficient applications and solving real-world problems with clean code.
 
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/musfiq180214/musfiq180214/main/Musfiq_180214.jpeg" alt="Musfiq Rahman" width="150" style="border-radius:50%;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,7 +32,6 @@ I enjoy building scalable, efficient applications and solving real-world problem
 
 ## 📊 GitHub Stats
 
-<!-- GitHub stats cards -->
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=musfiq180214&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&title_color=F7AB0A&icon_color=F7AB0A" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiq180214&layout=compact&theme=tokyonight&title_color=F7AB0A&hide=jupyter%20notebook" />
@@ -31,7 +40,6 @@ I enjoy building scalable, efficient applications and solving real-world problem
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiq180214&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
 
 ---
 
@@ -65,6 +73,7 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 
 ## 📄 Research & Publications
 "Precision Protein Folding Leveraging Ant Lion Optimization" - Submitted to an international journal.
+
 ---
 
 ## 🌐 Connect with Me  
