@@ -62,7 +62,7 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 
 ## 🌐 Connect with Me  
 - 📧 Email: [musfiq677@gmail.com](mailto:musfiq677@gmail.com)  
-- 🐙 GitHub: [github.com/musfiq1814](https://github.com/musfiq180214)  
+- 🐙 GitHub: [github.com/musfiq180214](https://github.com/musfiq180214)  
 - 🏆 Codeforces: [musfiqrahman](https://codeforces.com/profile/musfiqrahman)  
 - 💡 LeetCode: [musfiq180214](https://leetcode.com/u/musfiq180214/)  
 
