@@ -59,6 +59,15 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 
 ---
 
+💼 Experience
+
+Flutter Development Intern – Innofast Technologies
+📅 Augast 2025 – Present
+
+Working on Flutter-based mobile applications with integration of Firebase backend.
+
+---
+
 ## 📄 Research & Publications
 "Precision Protein Folding Leveraging Ant Lion Optimization" - Submitted to an international journal.
 
