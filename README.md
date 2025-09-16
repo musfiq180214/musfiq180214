@@ -5,8 +5,6 @@
 I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.  
 I enjoy building scalable, efficient applications and solving real-world problems with clean code.
 
-
-
 ---
 
 ## 🔧 Skills & Tools  
@@ -19,14 +17,12 @@ I enjoy building scalable, efficient applications and solving real-world problem
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview  
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=musfiq180214&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&title_color=F7AB0A&icon_color=F7AB0A" />
-</p>
-
-<p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiq180214&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiq180214&layout=pie&theme=tokyonight&title_color=F7AB0A" />
 </p>
 
 ---
@@ -59,17 +55,16 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 
 ---
 
-💼 Experience
+## 💼 Experience  
+**Flutter Development Intern – Innofast Technologies**  
+📅 August 2025 – Present  
 
-Flutter Development Intern – Innofast Technologies
-📅 Augast 2025 – Present
-
-Working on Flutter-based mobile applications.
+Working on Flutter-based mobile applications.  
 
 ---
 
-## 📄 Research & Publications
-"Precision Protein Folding Leveraging Ant Lion Optimization" - Submitted to an international journal.
+## 📄 Research & Publications  
+*"Precision Protein Folding Leveraging Ant Lion Optimization"* – Submitted to an international journal.  
 
 ---
 
@@ -81,4 +76,4 @@ Working on Flutter-based mobile applications.
 
 ---
 
-⭐ *“Passionate about technology, problem-solving, and building meaningful applications.”*
+⭐ *“Passionate about technology, problem-solving, and building meaningful applications.”*  
