@@ -64,7 +64,7 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 Flutter Development Intern – Innofast Technologies
 📅 Augast 2025 – Present
 
-Working on Flutter-based mobile applications with integration of Firebase backend.
+Working on Flutter-based mobile applications.
 
 ---
 
