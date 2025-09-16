@@ -17,23 +17,13 @@ I enjoy building scalable, efficient applications and solving real-world problem
 
 ---
 
-## 📊 GitHub Stats  
-
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=musfiq180214&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&title_color=F7AB0A&icon_color=F7AB0A" />
 </p>
 
----
-
-## 🔥 GitHub Streak  
-
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiq180214&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
----
-
-## 📝 Languages Usage  
 
 <p align="center">
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiq180214&layout=pie&theme=tokyonight&title_color=F7AB0A" />
