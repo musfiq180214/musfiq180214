@@ -2,7 +2,8 @@
 
 🚀 **Software Developer | Flutter Enthusiast | AI Explorer**  
 
-I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.  
+I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.
+
 I enjoy building scalable, efficient applications and solving real-world problems with clean code.
 
 ---
