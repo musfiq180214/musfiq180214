@@ -50,6 +50,9 @@ E-commerce app with product browsing and cart features.
 Real-time one-to-one and group chat with Firebase sync.  
 *Tech:* Flutter, Firebase  
 
+###    [Product Application](https://github.com/musfiq180214/dummyjson)
+A feature-rich Flutter app demonstrating a clean architecture built on top of public REST APIs.
+*Tech:* Flutter, Public API  
 ---
 
 ## 🎓 Education  
