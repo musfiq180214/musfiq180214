@@ -35,27 +35,33 @@ I enjoy building scalable, efficient applications and solving real-world problem
 ## 📂 Featured Projects  
 
 ### 🏠 [Home Rent Management System](https://github.com/musfiq1814/projecthome)  
-A property rental platform with authentication, listing, and booking system.  
+A property rental platform with authentication, listing, and booking system.
+
 *Tech:* Flutter, Firebase  
 
 ### 📷 [Instagram Clone](https://github.com/musfiq1814/Instagram_flutter)  
-Photo sharing app with likes and comments powered by Firebase backend.  
+Photo sharing app with likes and comments powered by Firebase backend.
+
 *Tech:* Flutter, Firebase  
 
 ### 🛒 [Amazon Clone](https://github.com/musfiq180214/amazon_clone_repo)  
-E-commerce app with product browsing and cart features.  
+E-commerce app with product browsing and cart features.
+
 *Tech:* Flutter, Public API  
 
 ### 💬 [Telegram Clone](https://github.com/musfiq180214/telegram_clone_repo)  
-Real-time one-to-one and group chat with Firebase sync.  
+Real-time one-to-one and group chat with Firebase sync.
+
 *Tech:* Flutter, Firebase  
 
 ###    [Product Application](https://github.com/musfiq180214/dummyjson)
-A feature-rich Flutter app demonstrating a clean architecture built on top of public REST APIs. 
+A feature-rich Flutter app demonstrating a clean architecture built on top of public REST APIs.
+
 *Tech:* Flutter, Public API
 
 ###    [Tasks Application](https://github.com/musfiq180214/tasks)
 An Application where users can add their daily tasks and track.
+
 *Tech:* Flutter, Firebase
 
 
