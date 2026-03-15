@@ -54,7 +54,8 @@ Real-time one-to-one and group chat with Firebase sync.
 A feature-rich Flutter app demonstrating a clean architecture built on top of public REST APIs. *Tech:* Flutter, Public API
 
 ###    [Tasks Application](https://github.com/musfiq180214/tasks)
-An Application where users can add their daily tasks and track
+An Application where users can add their daily tasks and track.
+*Tech:* Flutter, Firebase
 
 
 ---
