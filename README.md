@@ -60,7 +60,7 @@ A feature-rich Flutter app demonstrating a clean architecture built on top of pu
 *Tech:* Flutter, Public API, Firebase.
 
 ###    [Tasks Application](https://github.com/musfiq180214/tasks)
-An Application where users can add their daily tasks and track.
+An Application where users can add their daily tasks and track which includes CRUD operations.
 
 *Tech:* Flutter, Firebase
 
