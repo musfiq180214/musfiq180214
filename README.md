@@ -70,7 +70,7 @@ A Flutter-based chat application that connects with OpenAI’s GPT models, inclu
 Tech: Flutter, OpenAI API
 
 ###    [Smart Expense Tracker](https://github.com/musfiq180214/smart_expense_tracker)
-A Flutter Smart Expence Tracker Application where users can add expenses and track monthe wise expense bar chart which uses Flutter Shimmer package
+A Flutter Smart Expence Tracker Application where users can add expenses and track monthe wise expense bar chart.
 
 Tech: Flutter, Firebase
 
