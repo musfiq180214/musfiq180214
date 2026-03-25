@@ -64,10 +64,13 @@ An Application where users can add their daily tasks and track which includes CR
 
 *Tech:* Flutter, Firebase
 
-###    [Flutter GPT Chat App](https://github.com/musfiq180214/chatbot)
+###    [GPT Chat App](https://github.com/musfiq180214/chatbot)
 A Flutter-based chat application that connects with OpenAI’s GPT models, including gpt-4o-mini, gpt-4o, and gpt-3.5-turbo. Users can switch between models, scroll to the latest message, and clear all chats.
 
 Tech: Flutter, OpenAI API
+
+###    [Smart Expense Tracker](https://github.com/musfiq180214/smart_expense_tracker)
+A Flutter Smart Expence Tracker Application where users can add expenses and track monthe wise expense bar chart which uses Flutter Shimmer package
 
 ---
 
