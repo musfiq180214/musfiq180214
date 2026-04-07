@@ -74,6 +74,11 @@ A Flutter Smart Expence Tracker Application where users can add expenses and tra
 
 Tech: Flutter, Firebase
 
+###     [Push Notification](https://github.com/musfiq180214/push_notification)
+A Flutter Application Which Demonstrate how to trigger notifications from firebase and receive from device and also handle data sent in the notification.
+
+Tech: Flutter, Firebase (firebase messeging)
+
 ---
 
 ## 🎓 Education  
