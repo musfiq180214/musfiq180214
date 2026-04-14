@@ -79,6 +79,11 @@ A Flutter Application Which Demonstrate how to trigger notifications from fireba
 
 Tech: Flutter, Firebase (firebase messeging)
 
+###      [Near Cart](https://github.com/musfiq180214/nearcart)
+A Flutter Firebase Application where users can discover local stores on an interactive map, pin them, manage shopping lists tailored to specific locations.
+
+Tech: Flutter(Riverpod, Flutter Map, Isar, Flutter Animate, Geolocator), Firebase
+
 ---
 
 ## 🎓 Education  
