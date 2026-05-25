@@ -1,118 +1,218 @@
-# 👋 Hi, I'm Musfiq Rahman  
+# 👋 Hey, I'm Musfiq Rahman
 
-🚀 **Software Developer | Flutter Enthusiast | AI Explorer**  
+<div align="center">
 
-I am a motivated and detail-oriented software developer with strong expertise in **Flutter** for mobile app development and experience in **Python & AI/ML**.
+### 🚀 Flutter Developer • AI Enthusiast • Competitive Programmer
 
-I enjoy building scalable, efficient applications and solving real-world problems with clean code.
+Passionate about building modern mobile applications, exploring AI/ML, and solving real-world problems through clean and scalable software solutions.
 
----
-
-## 🔧 Skills & Tools  
-- **Languages:** Python, Dart, C, C++, Java, HTML/CSS  
-- **Frameworks:** Flutter, Firebase  
-- **Databases:** MySQL, Firebase  
-- **Tools:** Git, GitHub, VS Code  
-- **OS:** Windows, Linux  
-- **Other:** Competitive Programming (Codeforces, LeetCode)  
+</div>
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=musfiq180214&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&title_color=F7AB0A&icon_color=F7AB0A" />
+## 🧑‍💻 About Me
+
+- 📱 Flutter developer focused on cross-platform applications
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 💡 Passionate about clean architecture and scalable systems
+- 🏆 Competitive Programmer on Codeforces & LeetCode
+- 🌱 Continuously learning new technologies and frameworks
+
+---
+
+# ⚡ Tech Stack
+
+## 🚀 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,c,cpp,java,html,css" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiq180214&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+## 📱 Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,git,github,vscode,linux" />
 </p>
 
-<p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiq180214&layout=pie&theme=tokyonight&title_color=F7AB0A" />
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=musfiq180214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiq180214&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiq180214&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏠 Home Rent Management System
+🔗 [View Repository](https://github.com/musfiq1814/projecthome)
+
+A complete rental management platform featuring authentication, property listings, and booking functionality.
+
+**Tech Stack:** Flutter • Firebase
+
+---
+
+## 📸 Instagram Clone
+🔗 [View Repository](https://github.com/musfiq1814/Instagram_flutter)
+
+A social media application with image sharing, likes, comments, and Firebase backend integration.
+
+**Tech Stack:** Flutter • Firebase
+
+---
+
+## 🛒 Amazon Clone
+🔗 [View Repository](https://github.com/musfiq180214/amazon_clone_repo)
+
+An e-commerce application with product browsing, cart management, and API integration.
+
+**Tech Stack:** Flutter • REST API
+
+---
+
+## 💬 Telegram Clone
+🔗 [View Repository](https://github.com/musfiq180214/telegram_clone_repo)
+
+A real-time messaging application supporting one-to-one and group conversations.
+
+**Tech Stack:** Flutter • Firebase
+
+---
+
+## 📦 Product Application
+🔗 [View Repository](https://github.com/musfiq180214/dummyjson)
+
+A clean architecture Flutter application built using public REST APIs and Firebase services.
+
+**Tech Stack:** Flutter • Firebase • REST API
+
+---
+
+## ✅ Tasks Application
+🔗 [View Repository](https://github.com/musfiq180214/tasks)
+
+A task management application with CRUD operations for organizing daily activities efficiently.
+
+**Tech Stack:** Flutter • Firebase
+
+---
+
+## 🤖 GPT Chat App
+🔗 [View Repository](https://github.com/musfiq180214/chatbot)
+
+An AI-powered chat application integrated with OpenAI GPT models including GPT-4o, GPT-4o-mini, and GPT-3.5.
+
+### Features
+- Multiple AI model support
+- Smooth chat experience
+- Auto-scroll to latest messages
+- Clear conversation history
+
+**Tech Stack:** Flutter • OpenAI API
+
+---
+
+## 💰 Smart Expense Tracker
+🔗 [View Repository](https://github.com/musfiq180214/smart_expense_tracker)
+
+A smart finance tracker with monthly expense visualization and analytics dashboard.
+
+**Tech Stack:** Flutter • Firebase
+
+---
+
+## 🔔 Push Notification Demo
+🔗 [View Repository](https://github.com/musfiq180214/push_notification)
+
+Demonstrates Firebase push notifications, background messaging, and notification handling.
+
+**Tech Stack:** Flutter • Firebase Messaging
+
+---
+
+## 🗺️ Near Cart
+🔗 [View Repository](https://github.com/musfiq180214/nearcart)
+
+A location-based shopping assistant where users can discover nearby stores and manage location-specific shopping lists.
+
+### Features
+- Interactive maps
+- Store pinning
+- Geolocation support
+- Shopping list management
+
+**Tech Stack:** Flutter • Riverpod • Firebase • Isar • Flutter Map
+
+---
+
+# 🎓 Education
+
+## B.Sc. in Computer Science & Engineering
+📍 Khulna University  
+📅 2018 – 2025
+
+### Relevant Coursework
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Computer Networks
+- Computer Security
+- Data Mining
+
+---
+
+# 💼 Experience
+
+## Flutter Application Developer — Innofast Technologies
+📅 August 2025 – May 2026
+
+Worked on Flutter-based mobile applications with focus on scalability, performance, and clean architecture.
+
+---
+
+# 📄 Research & Publications
+
+### Precision Protein Folding Leveraging Ant Lion Optimization
+
+Submitted to an international research journal.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:musfiq677@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/musfiq180214">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/musfiqrahman">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/musfiq180214/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## 📂 Featured Projects  
+<div align="center">
 
-### 🏠 [Home Rent Management System](https://github.com/musfiq1814/projecthome)  
-A property rental platform with authentication, listing, and booking system.
+### ⭐ “Building technology that creates real-world impact.”
 
-*Tech:* Flutter, Firebase  
-
-### 📷 [Instagram Clone](https://github.com/musfiq1814/Instagram_flutter)  
-Photo sharing app with likes and comments powered by Firebase backend.
-
-*Tech:* Flutter, Firebase  
-
-### 🛒 [Amazon Clone](https://github.com/musfiq180214/amazon_clone_repo)  
-E-commerce app with product browsing and cart features.
-
-*Tech:* Flutter, Public API  
-
-### 💬 [Telegram Clone](https://github.com/musfiq180214/telegram_clone_repo)  
-Real-time one-to-one and group chat with Firebase sync.
-
-*Tech:* Flutter, Firebase  
-
-###    [Product Application](https://github.com/musfiq180214/dummyjson)
-A feature-rich Flutter app demonstrating a clean architecture built on top of public REST APIs and Firebase.
-
-*Tech:* Flutter, Public API, Firebase.
-
-###    [Tasks Application](https://github.com/musfiq180214/tasks)
-An Application where users can add their daily tasks and track which includes CRUD operations.
-
-*Tech:* Flutter, Firebase
-
-###    [GPT Chat App](https://github.com/musfiq180214/chatbot)
-A Flutter-based chat application that connects with OpenAI’s GPT models, including gpt-4o-mini, gpt-4o, and gpt-3.5-turbo. Users can switch between models, scroll to the latest message, and clear all chats.
-
-Tech: Flutter, OpenAI API
-
-###    [Smart Expense Tracker](https://github.com/musfiq180214/smart_expense_tracker)
-A Flutter Smart Expence Tracker Application where users can add expenses and track month wise expense bar chart.
-
-Tech: Flutter, Firebase
-
-###     [Push Notification](https://github.com/musfiq180214/push_notification)
-A Flutter Application Which Demonstrate how to trigger notifications from firebase and receive from device and also handle data sent in the notification.
-
-Tech: Flutter, Firebase (firebase messeging)
-
-###      [Near Cart](https://github.com/musfiq180214/nearcart)
-A Flutter Firebase Application where users can discover local stores on an interactive map, pin them, manage shopping lists tailored to specific locations.
-
-Tech: Flutter(Riverpod, Flutter Map, Isar, Flutter Animate, Geolocator), Firebase
-
----
-
-## 🎓 Education  
-**B.Sc. in Computer Science & Engineering**  
-Khulna University (2018 – 2025)  
-
-Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software Development Project, Computer Security, Computer Networks, Artificial Intelligence, Data Mining, Machine Learning.  
-
----
-
-## 💼 Experience  
-**Flutter Application Developer – Innofast Technologies**  
-📅 August 2025 – May 2026  
-
-Working on Flutter-based mobile applications.  
-
----
-
-## 📄 Research & Publications  
-*"Precision Protein Folding Leveraging Ant Lion Optimization"* – Submitted to an international journal.  
-
----
-
-## 🌐 Connect with Me  
-- 📧 Email: [musfiq677@gmail.com](mailto:musfiq677@gmail.com)  
-- 🐙 GitHub: [github.com/musfiq180214](https://github.com/musfiq180214)  
-- 🏆 Codeforces: [musfiqrahman](https://codeforces.com/profile/musfiqrahman)  
-- 💡 LeetCode: [musfiq180214](https://leetcode.com/u/musfiq180214/)  
-
----
-
-⭐ *“Passionate about technology, problem-solving, and building meaningful applications.”*  
+</div>
