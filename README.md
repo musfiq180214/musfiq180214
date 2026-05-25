@@ -96,7 +96,7 @@ Core Courses: OOP, Data Structures, Algorithms, Software Engineering, Software D
 
 ## 💼 Experience  
 **Flutter Application Developer – Innofast Technologies**  
-📅 August 2025 – Present  
+📅 August 2025 – May 2026  
 
 Working on Flutter-based mobile applications.  
 
