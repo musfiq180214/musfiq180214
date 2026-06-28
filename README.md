@@ -149,14 +149,6 @@ A location-based shopping assistant where users can discover nearby stores and m
 
 A magical Flutter application dedicated to the world of Studio Ghibli to explore films, characters, species, and more with a high-performance, production-ready architecture designed for scalability and maintainability.
 
-### Features
-- Interactive maps
-- Store pinning
-- Geolocation support
-- Shopping list management
-
-**Tech Stack:** Flutter • Riverpod • Firebase • Isar • Flutter Map
-
 ---
 
 # 🎓 Education
