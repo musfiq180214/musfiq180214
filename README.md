@@ -144,6 +144,11 @@ Demonstrates Firebase push notifications, background messaging, and notification
 
 A location-based shopping assistant where users can discover nearby stores and manage location-specific shopping lists.
 
+## 🎬 Studio Ghibli Explorer
+🔗 [View Repository](https://github.com/musfiq180214/studio_ghibli)
+
+A magical Flutter application dedicated to the world of Studio Ghibli to explore films, characters, species, and more with a high-performance, production-ready architecture designed for scalability and maintainability.
+
 ### Features
 - Interactive maps
 - Store pinning
