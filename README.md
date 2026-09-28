@@ -100,26 +100,22 @@ I am also comfortable across the full stack, having shipped a JWT-secured, Docke
 ### Full-Stack & AI-Powered
 
 **Student CRUD** — Full-stack Student Management & Analytics System with Flutter (Riverpod), Spring Boot, and PostgreSQL. JWT-secured, Dockerized, and deployed live with PDF reports and bilingual support.
-🔗 [View Demo](https://www.linkedin.com/posts/mrs180214_flutter-springboot-jwt-ugcPost-7509857422123950080-kGsn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ) <!-- TODO: replace with exact repo link -->
+🔗 [View Demo](https://lnkd.in/p/ga6B-q6q)
 
 **VoyageAI** — AI-powered Flutter travel app with intelligent trip planning, interactive maps, Firebase Auth, Riverpod, and Clean Architecture.
-🔗 [View Demo](([https://lnkd.in/p/gr4qtwEH](https://www.linkedin.com/posts/mrs180214_flutter-generativeai-traveltech-ugcPost-7485236896588034048-nYG6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ))) <!-- TODO: replace with exact repo link -->
+🔗 [View Demo](https://www.linkedin.com/posts/mrs180214_flutter-generativeai-traveltech-activity-7485236949184577536-tWa3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ)
 
 **LifePulse** — AI-powered health & nutrition app with multimodal meal analysis, personalized coaching, Supabase Storage, Hive offline caching, Riverpod, and Clean Architecture.
-🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+🔗 [View Demo](https://www.linkedin.com/posts/mrs180214_flutter-generativeai-traveltech-activity-7485236949184577536-tWa3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ)
 
 **BDRail** — AI-powered Bangladesh railway ticket booking app with Gemini conversational booking, Riverpod seat management, SSLCommerz payments, PDF e-ticket generation, Hive offline caching, and Material 3.
-🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+🔗 [View Demo](https://lnkd.in/p/eyjCPwZ8)
 
 **QuickLearn** — Flutter learning platform with SSLCommerz payments (Cards, bKash, Nagad, Rocket, Net Banking), AdMob, Riverpod, Hive offline order caching, Material 3, and modular architecture.
-🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+🔗 [View Demo](https://lnkd.in/p/gBVKqCrk)
 
 **Dummy JSON App (Jetpack Compose)** — Enterprise-grade Android app showcasing SOLID-principled Clean Architecture with offline-first resilience, type-safe navigation, and Material 3 using Room, DataStore, Coroutines, and StateFlow.
-🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
-
-**GPT Chat App** — AI-powered chat application integrated with OpenAI models including GPT-4o, GPT-4o-mini, and GPT-3.5. Features multiple model support, a smooth chat experience, auto-scroll to the latest messages, and clearable conversation history.
-**Tech Stack:** Flutter • OpenAI API
-🔗 [View Repository](https://github.com/musfiq180214/chatbot)
+🔗 [View Demo](https://lnkd.in/p/g53Nd6Xg)
 
 ### Flutter Applications
 
