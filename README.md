@@ -1,10 +1,27 @@
-# 👋 Hey, I'm Musfiq Rahman
-
 <div align="center">
 
-### 🚀 Flutter Developer • AI Enthusiast • Competitive Programmer
+# Musfiq Rahman
 
-Passionate about building modern mobile applications, exploring AI/ML, and solving real-world problems through clean and scalable software solutions.
+### Flutter Developer • AI Enthusiast • Competitive Programmer
+
+Junior Software Engineer (Flutter) at **Nevrosys Limited** — building modern, scalable mobile applications and solving real-world problems through clean, maintainable software.
+
+📍 Dhaka, Bangladesh
+
+<p>
+  <a href="mailto:musfiq677@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/musfiq180214">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://codeforces.com/profile/musfiqrahman">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/musfiq180214/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 </div>
 
@@ -12,31 +29,137 @@ Passionate about building modern mobile applications, exploring AI/ML, and solvi
 
 ## 🧑‍💻 About Me
 
-- 📱 Flutter developer focused on cross-platform applications
+I am a Flutter developer with hands-on experience building SOLID-principled, production-grade Android applications. My work centers on **Riverpod, Firebase, and REST/Dio integration**, paired with an AI-augmented workflow that shortens delivery timelines while keeping code maintainable.
+
+I am also comfortable across the full stack, having shipped a JWT-secured, Dockerized **Spring Boot + PostgreSQL** backend with a Flutter frontend. I have delivered features across **government, e-commerce, and ed-tech** platforms, including **three apps live on the Play Store**.
+
+- 📱 Cross-platform mobile development with Flutter (and native Android with Jetpack Compose)
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 💡 Passionate about clean architecture and scalable systems
-- 🏆 Competitive Programmer on Codeforces & LeetCode
+- 🏆 Competitive programmer on Codeforces & LeetCode
 - 🌱 Continuously learning new technologies and frameworks
 
 ---
 
-# ⚡ Tech Stack
+## 💼 Experience
 
-## 🚀 Languages
+### Junior Software Engineer (Flutter) — Nevrosys Limited
+📅 July 2026 – Present
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,dart,c,cpp,java,html,css" />
-</p>
+- Analyze business requirements and architect scalable Flutter applications using Clean Architecture, SOLID principles, and feature-based modular design.
+- Build production features with Riverpod/Bloc, Dio, REST APIs, SSLCommerz payment gateway integration, dependency injection, and structured error handling; configure multi-environment flavors and optimize performance before release.
+- Use AI tools (ChatGPT, Claude, Gemini) with structured context engineering to accelerate development of the **EDUBEE Learning Platform**, validating all generated code before merge.
 
-## 📱 Frameworks & Technologies
+### Flutter Application Developer — Innofast Technologies Limited
+📅 August 2025 – May 2026
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,git,github,vscode,linux" />
-</p>
+- Developed scalable cross-platform Flutter applications using feature-based Clean Architecture with independent Data, Domain, Presentation, Provider, and Widget layers; applied SOLID principles, the Repository Pattern, and Riverpod for decoupled, testable business logic.
+- Built a centralized Dio networking layer with authentication interceptors, structured exception handling, and response serialization, alongside offline-first persistence using Isar and Hive.
+- Created reusable UI component libraries, collaborated through Git-based workflows and code reviews, and worked directly with backend developers to define API contracts before implementation.
 
 ---
 
-# 📊 GitHub Analytics
+## ⚡ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,c,cpp,java,kotlin,html,css" />
+</p>
+
+### Frameworks, Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,spring,firebase,supabase,postgres,mysql,docker,git,github,vscode,linux" />
+</p>
+
+| Area | Technologies |
+|---|---|
+| **Mobile** | Flutter, Jetpack Compose |
+| **State Management** | Riverpod, Bloc |
+| **Backend** | Spring Boot, Firebase, Supabase |
+| **Databases** | PostgreSQL, Firebase Firestore, Supabase, MySQL |
+| **Local Storage** | Isar, Hive, SharedPreferences |
+| **APIs & Integrations** | REST, Dio, JSON Serialization, JWT Authentication, SSLCommerz, AdMob, LLM API Integration |
+| **Architecture** | Clean Architecture, SOLID, MVVM |
+| **DevOps & Tooling** | Docker, Git, GitHub, Android Studio |
+| **Other** | OOP, PDF Generation, i18n/Localization, AI-Assisted Development, Prompt Engineering, AI Agent Architectures (PEAS, Reflex, Model-Based, Utility-Based, RL Agents) |
+
+---
+
+## 📱 Deployed Projects (Play Store)
+
+| App | Domain | Stack | Highlights |
+|---|---|---|---|
+| **Labbaik App** | Government | Flutter, REST API | Multi-step refund workflow with OTP verification, handling failed/retried verification edge cases |
+| **Amar Shodai** | E-commerce | Flutter, REST API, Firebase | Cart, checkout, order tracking, and customer support, with a companion delivery-tracking app for couriers |
+| **Edubee** | E-learning | Flutter, REST API, Firebase | Online learning and exam preparation platform; resolved Hive storage and permission issues across multiple features |
+
+---
+
+## 🚀 Featured Projects
+
+### Full-Stack & AI-Powered
+
+**Student CRUD** — Full-stack Student Management & Analytics System with Flutter (Riverpod), Spring Boot, and PostgreSQL. JWT-secured, Dockerized, and deployed live with PDF reports and bilingual support.
+🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+
+**VoyageAI** — AI-powered Flutter travel app with intelligent trip planning, interactive maps, Firebase Auth, Riverpod, and Clean Architecture.
+🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+
+**LifePulse** — AI-powered health & nutrition app with multimodal meal analysis, personalized coaching, Supabase Storage, Hive offline caching, Riverpod, and Clean Architecture.
+🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+
+**BDRail** — AI-powered Bangladesh railway ticket booking app with Gemini conversational booking, Riverpod seat management, SSLCommerz payments, PDF e-ticket generation, Hive offline caching, and Material 3.
+🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+
+**QuickLearn** — Flutter learning platform with SSLCommerz payments (Cards, bKash, Nagad, Rocket, Net Banking), AdMob, Riverpod, Hive offline order caching, Material 3, and modular architecture.
+🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+
+**Dummy JSON App (Jetpack Compose)** — Enterprise-grade Android app showcasing SOLID-principled Clean Architecture with offline-first resilience, type-safe navigation, and Material 3 using Room, DataStore, Coroutines, and StateFlow.
+🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
+
+**GPT Chat App** — AI-powered chat application integrated with OpenAI models including GPT-4o, GPT-4o-mini, and GPT-3.5. Features multiple model support, a smooth chat experience, auto-scroll to the latest messages, and clearable conversation history.
+**Tech Stack:** Flutter • OpenAI API
+🔗 [View Repository](https://github.com/musfiq180214/chatbot)
+
+### Flutter Applications
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🏠 [Home Rent Management System](https://github.com/musfiq1814/projecthome) | Complete rental management platform with authentication, property listings, and booking | Flutter • Firebase |
+| 📸 [Instagram Clone](https://github.com/musfiq1814/Instagram_flutter) | Social media app with image sharing, likes, comments, and Firebase backend integration | Flutter • Firebase |
+| 🛒 [Amazon Clone](https://github.com/musfiq180214/amazon_clone_repo) | E-commerce app with product browsing, cart management, and API integration | Flutter • REST API |
+| 💬 [Telegram Clone](https://github.com/musfiq180214/telegram_clone_repo) | Real-time messaging app supporting one-to-one and group conversations | Flutter • Firebase |
+| 📦 [Product Application](https://github.com/musfiq180214/dummyjson) | Clean Architecture app built on public REST APIs and Firebase services, with Dio networking, dependency injection, localization, and cart/order management | Flutter • Firebase • REST API |
+| ✅ [Tasks Application](https://github.com/musfiq180214/tasks) | Task management app with CRUD operations for organizing daily activities | Flutter • Firebase |
+| 💰 [Smart Expense Tracker](https://github.com/musfiq180214/smart_expense_tracker) | Finance tracker with monthly expense visualization and an analytics dashboard | Flutter • Firebase |
+| 🔔 [Push Notification Demo](https://github.com/musfiq180214/push_notification) | Firebase push notifications, background messaging, and notification handling | Flutter • Firebase Messaging |
+| 🗺️ [Near Cart](https://github.com/musfiq180214/nearcart) | Location-based shopping assistant to discover nearby stores and manage location-specific shopping lists | Flutter |
+| 🎬 [Studio Ghibli Explorer](https://github.com/musfiq180214/studio_ghibli) | Explore Studio Ghibli films, characters, species, and more with a high-performance, production-ready architecture designed for scalability and maintainability | Flutter |
+
+---
+
+## 🎓 Education
+
+### B.Sc. in Computer Science & Engineering — Khulna University
+📅 2018 – 2025
+
+**Relevant Coursework:** Data Structures & Algorithms • Object-Oriented Programming • Software Engineering • Artificial Intelligence • Machine Learning • Computer Networks • Computer Security • Data Mining
+
+### Certification
+Flutter Development Internship Certificate (2025) — Flutter, state management, Firebase, API integration, mobile app development
+
+---
+
+## 📄 Research & Publications
+
+### Precision Protein Folding Leveraging Ant Lion Optimization
+*Submitted to an international research journal.*
+
+Undergraduate thesis implementing the Ant Lion Optimization (ALO) algorithm entirely in Python. Protein conformations were modeled as a combinatorial search-space problem, with a fitness-evaluation pipeline designed from scratch and NumPy vectorization and multiprocessing used to reduce execution time on large search spaces.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -50,157 +173,20 @@ Passionate about building modern mobile applications, exploring AI/ML, and solvi
 
 ---
 
-# 🚀 Featured Projects
+## 🌐 Let's Connect
 
-## 🏠 Home Rent Management System
-🔗 [View Repository](https://github.com/musfiq1814/projecthome)
-
-A complete rental management platform featuring authentication, property listings, and booking functionality.
-
-**Tech Stack:** Flutter • Firebase
-
----
-
-## 📸 Instagram Clone
-🔗 [View Repository](https://github.com/musfiq1814/Instagram_flutter)
-
-A social media application with image sharing, likes, comments, and Firebase backend integration.
-
-**Tech Stack:** Flutter • Firebase
-
----
-
-## 🛒 Amazon Clone
-🔗 [View Repository](https://github.com/musfiq180214/amazon_clone_repo)
-
-An e-commerce application with product browsing, cart management, and API integration.
-
-**Tech Stack:** Flutter • REST API
-
----
-
-## 💬 Telegram Clone
-🔗 [View Repository](https://github.com/musfiq180214/telegram_clone_repo)
-
-A real-time messaging application supporting one-to-one and group conversations.
-
-**Tech Stack:** Flutter • Firebase
-
----
-
-## 📦 Product Application
-🔗 [View Repository](https://github.com/musfiq180214/dummyjson)
-
-A clean architecture Flutter application built using public REST APIs and Firebase services.
-
-**Tech Stack:** Flutter • Firebase • REST API
-
----
-
-## ✅ Tasks Application
-🔗 [View Repository](https://github.com/musfiq180214/tasks)
-
-A task management application with CRUD operations for organizing daily activities efficiently.
-
-**Tech Stack:** Flutter • Firebase
-
----
-
-## 🤖 GPT Chat App
-🔗 [View Repository](https://github.com/musfiq180214/chatbot)
-
-An AI-powered chat application integrated with OpenAI GPT models including GPT-4o, GPT-4o-mini, and GPT-3.5.
-
-### Features
-- Multiple AI model support
-- Smooth chat experience
-- Auto-scroll to latest messages
-- Clear conversation history
-
-**Tech Stack:** Flutter • OpenAI API
-
----
-
-## 💰 Smart Expense Tracker
-🔗 [View Repository](https://github.com/musfiq180214/smart_expense_tracker)
-
-A smart finance tracker with monthly expense visualization and analytics dashboard.
-
-**Tech Stack:** Flutter • Firebase
-
----
-
-## 🔔 Push Notification Demo
-🔗 [View Repository](https://github.com/musfiq180214/push_notification)
-
-Demonstrates Firebase push notifications, background messaging, and notification handling.
-
-**Tech Stack:** Flutter • Firebase Messaging
-
----
-
-## 🗺️ Near Cart
-🔗 [View Repository](https://github.com/musfiq180214/nearcart)
-
-A location-based shopping assistant where users can discover nearby stores and manage location-specific shopping lists.
-
-## 🎬 Studio Ghibli Explorer
-🔗 [View Repository](https://github.com/musfiq180214/studio_ghibli)
-
-A magical Flutter application dedicated to the world of Studio Ghibli to explore films, characters, species, and more with a high-performance, production-ready architecture designed for scalability and maintainability.
-
----
-
-# 🎓 Education
-
-## B.Sc. in Computer Science & Engineering
-📍 Khulna University  
-📅 2018 – 2025
-
-### Relevant Coursework
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Computer Networks
-- Computer Security
-- Data Mining
-
----
-
-# 💼 Experience
-
-## Flutter Application Developer — Innofast Technologies
-📅 August 2025 – May 2026
-
-Worked on Flutter-based mobile applications with focus on scalability, performance, and clean architecture.
-
----
-
-# 📄 Research & Publications
-
-### Precision Protein Folding Leveraging Ant Lion Optimization
-
-Submitted to an international research journal.
-
----
-
-# 🌐 Connect With Me
+I'm open to conversations about Flutter, full-stack development, and AI-driven products.
 
 <p align="left">
   <a href="mailto:musfiq677@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/musfiq180214">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
   </a>
-
   <a href="https://codeforces.com/profile/musfiqrahman">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-
   <a href="https://leetcode.com/u/musfiq180214/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
