@@ -103,7 +103,7 @@ I am also comfortable across the full stack, having shipped a JWT-secured, Docke
 🔗 [View Demo](https://www.linkedin.com/posts/mrs180214_flutter-springboot-jwt-ugcPost-7509857422123950080-kGsn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ) <!-- TODO: replace with exact repo link -->
 
 **VoyageAI** — AI-powered Flutter travel app with intelligent trip planning, interactive maps, Firebase Auth, Riverpod, and Clean Architecture.
-🔗 [View Demo]((https://lnkd.in/p/gr4qtwEH)) <!-- TODO: replace with exact repo link -->
+🔗 [View Demo](([https://lnkd.in/p/gr4qtwEH](https://www.linkedin.com/posts/mrs180214_flutter-generativeai-traveltech-ugcPost-7485236896588034048-nYG6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ))) <!-- TODO: replace with exact repo link -->
 
 **LifePulse** — AI-powered health & nutrition app with multimodal meal analysis, personalized coaching, Supabase Storage, Hive offline caching, Riverpod, and Clean Architecture.
 🔗 [View Repository](https://github.com/musfiq180214) <!-- TODO: replace with exact repo link -->
