@@ -106,7 +106,7 @@ I am also comfortable across the full stack, having shipped a JWT-secured, Docke
 🔗 [View Demo](https://www.linkedin.com/posts/mrs180214_flutter-generativeai-traveltech-activity-7485236949184577536-tWa3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ)
 
 **LifePulse** — AI-powered health & nutrition app with multimodal meal analysis, personalized coaching, Supabase Storage, Hive offline caching, Riverpod, and Clean Architecture.
-🔗 [View Demo]([https://www.linkedin.com/posts/mrs180214_flutter-generativeai-traveltech-activity-7485236949184577536-tWa3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClVQp8BclEpNssyxql2gNRmkXNi8GtOhdQ](https://lnkd.in/p/gbS-3mYu))
+🔗 [View Demo](https://lnkd.in/p/gbS-3mYu)
 
 **BDRail** — AI-powered Bangladesh railway ticket booking app with Gemini conversational booking, Riverpod seat management, SSLCommerz payments, PDF e-ticket generation, Hive offline caching, and Material 3.
 🔗 [View Demo](https://lnkd.in/p/eyjCPwZ8)
